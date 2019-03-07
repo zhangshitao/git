@@ -5,5 +5,5 @@ public class Hello {
     private  short a;
     private String bbb;
 
-    private Integer cc;
+    private Integer ccc;
 }
