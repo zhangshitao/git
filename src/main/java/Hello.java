@@ -3,4 +3,5 @@
  */
 public class Hello {
     private  short a;
+    private String bbb;
 }
